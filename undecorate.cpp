@@ -7,7 +7,7 @@
 * You may use this file under the terms of the 3-clause BSD license.
 *
 * To compile (MSVC), do
-*    cl /c /MD undecorate.cpp && link undecorate.obj dbghelp.lib
+*    cl /MD dbghelp.lib undecorate.cpp
 *
 * Alternatively, if you have UPX (http://upx.sourceforge.net/), you
 * can compress it to make it even smaller by
