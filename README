@@ -1,0 +1,3 @@
+Tiny tool to undecorate/unmangle/decode a MSVC symbol.
+
+Simply uses UnDecorateSymbolName(), which is part of DbgHelp.dll 5.1 or later.
